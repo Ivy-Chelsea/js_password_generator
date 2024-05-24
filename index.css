@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    background-color: #152238;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.top {
+    color: whitesmoke;
+}
+.bottom {
+    color: #50C878;
+}
+p {
+    color: wheat;
+}
+#btn {
+    color: white;
+    background-color: #50C878;
+    border-radius: 8px;
+    border: none;
+    height: 30px;
+}
+#first,#sec {
+    color: #50C878;
+    background-color: #152238;
+    height: 30px;
+    width: 200px;
+    border-radius: 8px;
+    padding-right: 50px;
+}
